@@ -8,3 +8,12 @@ FinancialFlow is a personal finance management tool designed to help users track
 - Reports & Analytics: Generate charts and summaries for financial insights.
 - User Authentication: Secure login and data privacy.
 - Mobile Responsive: Works seamlessly on desktop and mobile devices.
+
+# Technologies Used
+- Frontend: React.js / HTML, CSS, JavaScript
+- Backend: Node.js / Python (Flask/Django)
+- Database: MongoDB / SQLite
+- Other: Chart.js for visualizations, Firebase for authentication (update based on your actual stack)
+
+# Installation
+- Clone the repository:
