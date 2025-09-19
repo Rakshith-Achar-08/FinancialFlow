@@ -17,3 +17,23 @@ FinancialFlow is a personal finance management tool designed to help users track
 
 # Installation
 - Clone the repository:
+  * git clone https://github.com/Rakshith-Achar-08/FinancialFlow.git
+- Navigate to the project directory:
+  * cd FinancialFlow
+- Install dependencies (adjust based on your tech stack, e.g., for Node.js):
+  * npm install
+- Set up environment variables (e.g., create a .env file with API keys).
+- Run the application:
+  * npm start
+# Usage
+Sign up or log in to your account.
+Add your income and expenses via the dashboard.
+View reports and set budgets in the respective sections.
+
+# Contributing
+Contributions are welcome! Please follow these steps:
+- Fork the repository.
+Create a new branch: git checkout -b feature/your-feature.
+- Commit your changes: git commit -m 'Add your feature'.
+- Push to the branch: git push origin feature/your-feature.
+- Open a pull request.
